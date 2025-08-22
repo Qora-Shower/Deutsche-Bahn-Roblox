@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap');
+
+body {
+  font-family: 'Ubuntu';
+  font-weight: 700;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  background: #EFEFEF;
+}
+
+.bottom-card {
+  width: 90vw;
+  height: 17vh;
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  bottom: 0;
+  background: transparent;
+  margin-bottom: 20px;
+}
+
+.btn {
+  width: 90vw;
+  height: 7vh;
+  border-radius: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+}
+
+.btn-top {
+  background: #212121;
+}
+
+.btn-bottom {
+  background: rgba(17, 17, 17, 0.1);
+  color: #000;
+}
