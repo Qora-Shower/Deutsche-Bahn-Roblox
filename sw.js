@@ -1,5 +1,5 @@
-const CACHE_NAME = "Alenya-V1";
-const BASE = "/Alenya/";
+const CACHE_NAME = "RailGuide-V1";
+const BASE = "/Deutsche-Bahn-Roblox/";
 
 self.addEventListener('install', (event) => {
   event.waitUntil(

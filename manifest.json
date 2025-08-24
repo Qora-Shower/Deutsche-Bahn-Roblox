@@ -1,16 +1,16 @@
 {
   "lang": "de-DE",
-  "name": "Alenya",
-  "short_name": "Alenya",
+  "name": "Rail Guide",
+  "short_name": "Rail Guide",
   "description": "Your Roblox AI Assistance",
-  "start_url": "/Alenya/",
-  "background_color": "#000000",
-  "theme_color": "#000000",
+  "start_url": "/Deutsche-Bahn-Roblox/",
+  "background_color": "#212121",
+  "theme_color": "#212121",
   "orientation": "any",
   "display": "standalone",
   "icons": [
   {
-    "src": "/Alenya/icon512.png",
+    "src": "/Deutsche-Bahn-Roblox/icon512.png",
     "sizes": "512x512",
     "type": "image/png"
   }
