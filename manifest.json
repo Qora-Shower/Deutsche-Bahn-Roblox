@@ -1,0 +1,19 @@
+{
+  "lang": "de-DE",
+  "name": "Alenya",
+  "short_name": "Alenya",
+  "description": "Your Roblox AI Assistance",
+  "start_url": "/Alenya/",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "any",
+  "display": "standalone",
+  "icons": [
+  {
+    "src": "/Alenya/icon512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }
+]
+
+}
